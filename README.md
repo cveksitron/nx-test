@@ -1,5 +1,3 @@
-# nx-test
-=======
 # Mateomi
 
 This project was generated using [Nx](https://nx.dev).
